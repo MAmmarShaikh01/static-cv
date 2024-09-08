@@ -1,0 +1,20 @@
+@media screen and (max-width: 630px) {
+    section.section1{
+        font-size: 60%;
+    }
+    .bold{
+        margin-top: 20px;
+    }
+}
+@media screen and (max-width: 490px) {
+    section.section1{
+        font-size: 50%;
+    }
+
+}
+@media screen and (max-width: 410px) {
+    section.section1{
+        font-size: 40%;
+    }
+
+}
